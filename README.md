@@ -1,6 +1,8 @@
 
 # 🏰 Le Grand Œuvre de Three.js 🏰
 
+[Projet cube](https://stirring-blancmange-b39ee3.netlify.app/)
+
 Oyez, oyez, braves gens ! Ceci est mon premier projet en Three.js, un artefact numérique forgé dans les flammes du savoir et sculpté à même le code sacré.
 
 Point de grimoire ancien ni de maître en chair et en os, mais une entité mystérieuse, **ChatGPT**, ce mage de silicium, m’accompagne dans cette noble aventure. Ensemble, nous avons façonné un cube envoûté :
